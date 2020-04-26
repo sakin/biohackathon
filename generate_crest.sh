@@ -1,0 +1,1 @@
+name=crest_test3000_5 gpu=1 batchSize=1 imsize=10 noisemode=linefull net=/home/ubuntu/dcgan.torch/checkpoints/crest_experiment_500_net_G.t7 th generate.lua

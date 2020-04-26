@@ -1,0 +1,1 @@
+DATA_ROOT=/home/ubuntu/dcgan.torch/nicer_crests dataset=folder name=wappenwiki niter=1000 epoch_save_modulo=100 th main.lua   

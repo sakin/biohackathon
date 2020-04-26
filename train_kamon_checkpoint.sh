@@ -1,0 +1,1 @@
+DATA_ROOT=/home/ubuntu/dcgan.torch/kamon dataset=folder ngf=150 name=kamon_experiment niter=90 netD=/home/ubuntu/dcgan.torch/checkpoints/kamon_experiment_10_net_D.t7 netG=/home/ubuntu/dcgan.torch/checkpoints/kamon_experiment_10_net_G.t7 epoch_save_modulo=2 th main.lua   
